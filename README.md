@@ -2,7 +2,8 @@
 
 Automation workflows built with n8n to reduce repetitive 
 manual tasks and improve operational efficiency.
-
+> Note: n8n subscription has lapsed. JavaScript logic 
+> from the workflow is included for reference.
 ## Features
 - Automated multi-step workflows
 - Reduces manual repetitive tasks
